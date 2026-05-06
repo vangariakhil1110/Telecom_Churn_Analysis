@@ -5,6 +5,7 @@ An end-to-end Customer Churn Analytics Dashboard project designed to analyze cus
 This project transforms raw telecom customer data into an interactive business intelligence solution that helps understand why customers leave, which customer segments are at risk, and how businesses can improve customer retention strategies.
 
 📊 Dashboard Preview
+ https://github.com/vangariakhil1110/Telecom_Churn_Analysis/blob/main/Churn_Dashboard.png
 
 🎯 Project Objective
 
